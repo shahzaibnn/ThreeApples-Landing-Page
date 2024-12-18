@@ -679,7 +679,7 @@ function App() {
           </div>
 
           {/* Button */}
-          <div className="mt-12 flex justify-center">
+          <div className="mt-12 flex justify-center mb-20">
             <button className="bg-[#F8A82A] text-black px-6 py-3 rounded-md hover:bg-blue-600 transition duration-300 flex items-center">
               Read More Articles
               <ArrowRightIcon className="ml-4 h-5 w-5" />
